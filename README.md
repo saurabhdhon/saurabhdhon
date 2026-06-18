@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Project+Engineer+%40+Doka+USA;Formwork+%26+Shoring+Specialist;Structural+Engineering+%7C+Field+Support;Building+the+structures+that+build+the+world" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Project+Engineer+%40+Doka+USA;Formwork+%26+Shoring+Specialist;Structural+Engineering+%7C+Field+Support;Building+the+structures+that+built+the+world" alt="Typing SVG" />
 </p>
 
 ---
