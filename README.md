@@ -55,6 +55,12 @@ I'm a **Project Engineer at Doka USA**, where I turn complex construction challe
 
 ---
 
+## 🚧 Currently Exploring
+
+- 📚 Learning to document field engineering workflows and calculations in a shareable, open format
+- 🧮 Planning to publish sample formwork/shoring calculation references
+---
+  
 ## 📫 Let's Connect
 
 <p align="left">
