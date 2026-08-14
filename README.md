@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Project Engineer · Formwork &amp; Shoring Design · Structural Engineering</b><br>
-  📍 Atlanta, GA &nbsp;|&nbsp; 🏢 Doka USA
+  📍 Atlanta, GA &nbsp;|&nbsp; 🏢 
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 🧱 About Me
 
-I'm a **Project Engineer at Doka USA**, where I turn complex construction challenges into safe, efficient, and buildable solutions. My work sits at the intersection of engineering fundamentals and real-world field execution.
+I'm a **Project Engineer **, where I turn complex construction challenges into safe, efficient, and buildable solutions. My work sits at the intersection of engineering fundamentals and real-world field execution.
 
 - 🔩 Specialized in **Formwork & Shoring system design**
 - 🏗️ Supporting projects from preconstruction through field installation
